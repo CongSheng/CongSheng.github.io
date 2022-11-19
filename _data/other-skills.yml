@@ -1,7 +1,7 @@
-- name: Arduino
-   percentage: 70
-   color: primary
+- name: Adobe Photoshop
+  percentage: 95
+  color: info
 
-- name: HTML/CSS
-   percentage: 50
-   color: secondary
+- name: Adobe Illustrator
+  percentage: 90
+  color: success
