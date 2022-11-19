@@ -8,10 +8,11 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I am currently a research engineer at the Institute of Microelectronics (IME), a research institute under Singapore's Agency for Science, Technology and Research (A*STAR). 
+As a fortunate receipient of the National Science Scholarship (PhD), I look forward to pursue my PhD starting from Fall 2023 in the research area of energy-efficient computing. I believe that through software-hardware co-design and drawing inspiration from the biological brain, we can work towards a much more sustainable, adaptable, and intelligent computing paradigm than what we have right now.
 
 <div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
+{% include about/skills.html title="Engineering Skills" source=site.data.programming-skills %}
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 </div>
 
