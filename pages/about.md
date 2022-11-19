@@ -11,7 +11,7 @@ Hi I am **{{ site.author.name }}** :wave:,<br>
 I am currently a research engineer at the Institute of Microelectronics (IME), a research institute under Singapore's Agency for Science, Technology and Research (A*STAR). 
 As a fortunate recipient of the National Science Scholarship (PhD), I look forward to pursue my PhD starting from Fall 2023 in the research area of energy-efficient computing. I believe that through software-hardware co-design and drawing inspiration from the biological brain, we can work towards a much more sustainable, adaptable, and intelligent computing paradigm than what we have right now.
 
-In my free time, I enjoy experimenting with brewing coffee (i.e. French press and Aeropress), working out, reading, and volunteering at Causes for Animals (CAS), a local animal shelter. For my CV, [click here](LeowCongSheng_CV.pdf). 
+<!-- In my free time, I enjoy experimenting with brewing coffee (i.e. French press and Aeropress), working out, reading, and volunteering at Causes for Animals (CAS), a local animal shelter. For my CV, [click here](LeowCongSheng_CV.pdf).  -->
 
 <div class="row">
 {% include about/skills.html title="Engineering Skills" source=site.data.programming-skills %}
