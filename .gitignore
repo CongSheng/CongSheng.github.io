@@ -3,7 +3,8 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
-.images/
+_images/
+_includes/
 
 
 # Ruby Gems
