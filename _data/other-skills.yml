@@ -1,6 +1,6 @@
 - name: Arduino
    percentage: 70
-   color: Primary
+   color: primary
 
 - name: HTML/CSS
    percentage: 50
