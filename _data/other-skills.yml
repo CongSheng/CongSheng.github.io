@@ -1,10 +1,3 @@
-# - name: Adobe Photoshop
-#   percentage: 95
-#   color: info
-
-# - name: Adobe Illustrator
-#   percentage: 90
-#   color: success
 - name: Arduino
    percentage: 70
    color: Primary
@@ -12,4 +5,12 @@
 - name: HTML/CSS
    percentage: 50
    color: secondary
+
+# - name: Adobe Photoshop
+#   percentage: 95
+#   color: info
+
+# - name: Adobe Illustrator
+#   percentage: 90
+#   color: success
 
