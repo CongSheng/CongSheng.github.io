@@ -12,6 +12,6 @@
 
 - name: Go
   percentage: 60
-  color: secondary
+  color: info
 
 
