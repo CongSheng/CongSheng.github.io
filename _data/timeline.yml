@@ -1,17 +1,22 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-- title: Software Engineer, Google, UK
+- title: Student, Nanyang Technologcial University (NTU), School of Electrical and Electronic Engineering (EEE)
   from: 2018
+  to: 2022
+  description: Pursued my undergraduate study with the Nanyang Scholarship, 
+                the foremost undergraduate scholarship at NTU. 
+                Being in the CN Yang Scholars Program, I was able to pursue a 
+                multi-disciplinary and research-focused curriculum on top of my
+                major in EEE. Beyond the academic lives, I was a active in
+                Garage@EEE, MLDA@EEE, EEE Outreach Committee, 
+                and my hall of residence-Pioneer Hall.
+                Graduated with honours (highest distinction), 
+                gained exposure, and made new friends.
+
+- title: Research Engineer, Institute of Microelectronics 
+  from: 2022
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: Continued my research on spiking neural network under my co-supervisor 
+              (Dr. Gao Yuan) from my final-year project back in NTU, which led to a 
+              submitted paper currently under review. Currently, I am exploring
+              deeper into hardware modelling and implementation of artificial
+              intelligence algorithms such as convolutional neural network,
+              and spiking neural network.
