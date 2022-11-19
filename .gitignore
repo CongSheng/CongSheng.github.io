@@ -4,7 +4,6 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 _images/
-_includes/
 
 
 # Ruby Gems
