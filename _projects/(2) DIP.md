@@ -1,7 +1,7 @@
 ---
 name: Water Antenna
 tools: [Ansys HFSS, Fusion360]
-image: ../images/DIP/waterAntenna.JPG
+image: https://github.com/CongSheng/CongSheng.github.io/blob/9fcbcb82307d662952c8fd6d60e84acc81b8aada/images/waterAntenna.JPG
 description: In a team of 6, we designed, fabricated, and tested multiple water antennas with beam steering abilities.
 ---
 
