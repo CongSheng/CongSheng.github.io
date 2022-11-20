@@ -18,10 +18,8 @@ showed succes in both transmission and receving signals, with multiple water ant
 The project won the DIP competition where different groups compete within the same thematic programme (Photonics, Radar & Satellite Systems) in 2021.
 
 ![Team_photo](../images/DIP/DIP_team.JPG "Ryan, Yusuf, Qi Feng, Jian Xian, me, and Hareharan.")
-<center> Team photo with some of us holding on to the water antenna housing. Left to right: Ryan, Yusuf, Qi Feng, Jian Xian, me, and Hareharan </center>
+Above: Team photo with some of us holding on to the water antenna housing. Left to right: Ryan, Yusuf, Qi Feng, Jian Xian, me, and Hareharan.
 
 ![Water_antenna_in_action](../images/DIP/waterAntenna.JPG "Testing for the water antenna.")
-<center> Water antenna testing with spectrum analyzer </center>
+ Above: Water antenna testing with spectrum analyzer. 
 
-![Demo_vid](../images/DIP/demoVid.MP4 "Video of one of the demonstrations.")
-<center> Multiple water antenna can be used to strengthen signal transmission using another water antenna to receive the signal. </center>
