@@ -1,7 +1,7 @@
 ---
 name: Water Antenna
 tools: [Ansys HFSS, Fusion360]
-image: ..images/DIP/waterAntenna.JPG
+image: ../images/DIP/waterAntenna.JPG
 description: In a team of 6, we designed, fabricated, and tested multiple water antennas with beam steering abilities.
 ---
 
@@ -16,4 +16,4 @@ before fabrication. Tests on the fabricated water antenna involving VNA (Vector 
 showed succes in both transmission and receving signals, with multiple water antenna offering some beam-steering abilities.
 The project won the DIP competition where different groups compete within the same thematic programme (Photonics, Radar & Satellite Systems) in 2021.
 
-![Team_photo](../images/DIP_team.JPG Ryan, Yusuf, Qi Feng, Jian Xian, me, and Hareharan)
+![Team_photo](../images/DIP_team.JPG "Ryan, Yusuf, Qi Feng, Jian Xian, me, and Hareharan")
