@@ -1,7 +1,7 @@
 ---
 name: Drone with 360° Video Camera Gimbal
-tools: [Drone,  Electronics]
-image: https://raw.githubusercontent.com/CongSheng/CongSheng.github.io/master/images/DIP/SA_Demo.jpg
+tools: [Drone,  Electronics, Arduino, Fusion360]
+image: https://raw.githubusercontent.com/CongSheng/CongSheng.github.io/master/images/MNT/MNT%20Drone.jpg
 description: Worked with students from different faculties on an engineering project.
 ---
 
@@ -16,4 +16,10 @@ from scratch, especially with different backgrounds. However, that differences a
 and ideas, where we tried to employ each of our strengths to complete the project. I focused on the circuitry and electronic components of the drone. At the same time, we shared our findings and learnings, and helped each other whenever possible,
 allowing all of us to learn new skills and experiences at the same time. As the leader of the team, I am very honoured and glad to have worked with the brilliant and helpful members, where we struggled, learned and won the outstanding award together.
 
-![Team_photo](../images/DIP/DIP_team.JPG "Ryan, Yusuf, Qi Feng, Jian Xian, me, and Hareharan.")
+Initially choosing a 250 drone frame, we found it highly difficult to balance the payload especially with additional gimbal and circuitry we wished to put. Hence, we went on with the F450 quadcopter frame instead, and implemented the gimbal using a separate control system (controller and receiver) using Arduino nano and with RF module. The gimbal was designed using Fusion360 and 3D printed after multiple optimization iterations.
+
+<img src="https://raw.githubusercontent.com/CongSheng/CongSheng.github.io/master/images/MNT/mnt_controller.jpg", width="200", alt="Controller for the gimbal.">
+Image above: A separate controller for gimal operations.
+
+<img src="https://raw.githubusercontent.com/CongSheng/CongSheng.github.io/master/images/MNT/mnt_drone_circuit.png", width="200", alt="Schematic of the electronic systems onboard">
+Image above: Circuit schematic for the onboard control systems.
