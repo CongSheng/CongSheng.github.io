@@ -11,5 +11,5 @@ an interesting competition to learn from, and was suprised to emerged as one of 
 Through the competition, I got to better appreciate the problem definition and ideation stage which occurs before the actual design.
 Using Figma, we designed a simple mock-up and even coded a prototype using Android studio.
 
-<img src="https://github.com/CongSheng/CongSheng.github.io/blob/master/images/Hackathons/MockUp_FB_01.png" width="400" alt="Mockup of our proposed solution.">
+<img src="https://raw.githubusercontent.com/CongSheng/CongSheng.github.io/master/images/Hackathons/MockUp_FB_01.png" width="800" alt="Mockup of our proposed solution.">
 <center>Image above: A mockup of our proposed solution.</center>
