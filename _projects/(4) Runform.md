@@ -1,7 +1,7 @@
 ---
 name: RunForm
 tools: [UI/UX, Figma, Product]
-image: https://raw.githubusercontent.com/CongSheng/CongSheng.github.io/master/images/RunForm_value.jpg
+image: https://raw.githubusercontent.com/CongSheng/CongSheng.github.io/master/images/RunForm_Figma.jpg 
 description: Created a Figma mock-up on an application to help runners improve running form.
 ---
 As part of an entrepreneurship module, I proposed and created a mockup of 
@@ -18,3 +18,6 @@ physiotherapy to better understand the feasibility of the proposed solution.
 
 <img src="https://raw.githubusercontent.com/CongSheng/CongSheng.github.io/master/images/RunForm_Figma.jpg" width="800" alt="Mockup of our proposed solution.">
 <center>Image above: A mockup of our proposed solution.</center>
+
+<img src="https://raw.githubusercontent.com/CongSheng/CongSheng.github.io/master/images/RunForm_value.jpg" width="800" alt="Value proposition.">
+<center>Image above: Value proposition.</center>

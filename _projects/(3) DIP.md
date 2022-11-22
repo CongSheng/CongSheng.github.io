@@ -13,13 +13,15 @@ the project to design a water antenna. Unlike fixed-length antennas which have f
 region, liquid-based antenna offers reconfigurability and flexibility due to the intrinsic properties of liquid.
 This project involved first the modelling and simulation of a water antenna using Ansys HFSS(High frequency structure simulator)
 before fabrication. In order to improve aesthetics of the water antenna, housings based on chess pieces were designed using Fusion360 and 3D-printed. 
-Tests on the fabricated water antenna involving VNA (Vector Network Analyzer) and signal generator 
+Tests on the fabricated water antenna involving VNA (Vector Network Analyzer), spectrum analyzer (SA) and signal generator 
 showed succes in both transmission and receving signals, with multiple water antenna offering some beam-steering abilities.
 The project won the DIP competition where different groups compete within the same thematic programme (Photonics, Radar & Satellite Systems) in 2021.
 
-![Team_photo](../images/DIP/DIP_team.JPG "Ryan, Yusuf, Qi Feng, Jian Xian, me, and Hareharan.")
-Above: Team photo with some of us holding on to the water antenna housing. Left to right: Ryan, Yusuf, Qi Feng, Jian Xian, me, and Hareharan.
+<img src="https://github.com/CongSheng/CongSheng.github.io/blob/master/images/DIP/DIP_team.JPG" width="800" alt="Team photo">
+<center>Image above: Team photo with some of us holding on to the water antenna housing. Left to right: Ryan, Yusuf, Qi Feng, Jian Xian, me, and Hareharan.</center>
 
-![Water_antenna_in_action](../images/DIP/waterAntenna.JPG "Testing for the water antenna.")
- Above: Water antenna testing with spectrum analyzer. 
+<img src="https://raw.githubusercontent.com/CongSheng/CongSheng.github.io/master/images/DIP/waterAntenna.JPG" width="800" alt="Testing water antenna">
+<center>Image above: Water antenna testing with spectrum analyzer (SA).</center>
 
+<img src="https://raw.githubusercontent.com/CongSheng/CongSheng.github.io/master/images/DIP/SA_Demo.jpg" width="800" alt="Demo using Spectrum Analyzer">
+<center>Image above: Demonstration with SA and beam-steering ability.</center>

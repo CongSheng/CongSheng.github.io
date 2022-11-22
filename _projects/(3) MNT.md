@@ -18,6 +18,9 @@ allowing all of us to learn new skills and experiences at the same time. As the 
 
 Initially choosing a 250 drone frame, we found it highly difficult to balance the payload especially with additional gimbal and circuitry we wished to put. Hence, we went on with the F450 quadcopter frame instead, and implemented the gimbal using a separate control system (controller and receiver) using Arduino nano and with RF module. The gimbal was designed using Fusion360 and 3D printed after multiple optimization iterations.
 
+<img src="https://raw.githubusercontent.com/CongSheng/CongSheng.github.io/master/images/MNT/MNT%20Drone.jpg" width="800" alt="Image of our drone.">
+<center>Image above: The drone we assembled and modified.</center>
+
 <img src="https://raw.githubusercontent.com/CongSheng/CongSheng.github.io/master/images/MNT/mnt_controller.jpg" width="800" alt="Controller for the gimbal.">
 <center>Image above: A separate controller for gimal operations.</center>
 
