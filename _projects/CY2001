@@ -1,0 +1,27 @@
+---
+name: FSK Circuit and System for Low‑Power Dual‑Band MEMS
+tools: [MATLAB, Communication Systems, Phase-locked Loops, Research]
+image: https://raw.githubusercontent.com/CongSheng/CongSheng.github.io/master/images/Research/cy2001_system.jpg
+description: Audio feature exploration for enhanced audio-based respiratory anomaly detection.
+---
+MEMS (micro-electromechanical systems, a very mouthful word) are used as
+multiple hardware such as sensors, display chips, and switches. As the demand for
+Internet-of-things (IoT) increases, and MEMS which are used in embedded devices
+are increasingly important. However, wireless communication is an energy-expensive
+process in the overall energy budget, which needs to be low to ensure the small
+form factor of MEMs. Phase-locked loops (PLL), with their elegance in their simple
+design for complex behavior, can be used to provide an effective and efficient
+modulating system for MEMs, such as through frequency-shift keying (FSK).
+
+This research project explored the use of the PLL-FSK demodulation circuit system
+using MATLAB Simulink, and consolidated some of the basic design principles for
+such demodulator circuits in MEMs.
+
+<img src="https://raw.githubusercontent.com/CongSheng/CongSheng.github.io/master/images/Research/cy2001_pll.jpg" width="800" alt="PLL Model">
+<center>Image above: The PLL model used within the overall system.</center>
+
+<img src="https://raw.githubusercontent.com/CongSheng/CongSheng.github.io/master/images/Research/cy2001_signal.jpg" width="800" alt="Signal output">
+<center>Top: Modulated signal as PLL input (yellow) and PLL voltage-controlled oscillator (VCO) output (blue). 
+Middle: Signal detection output (yellow) and original unmodulated signal (blue). 
+Bottom: Filtered VCO input.</center>
+
