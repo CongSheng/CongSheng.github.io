@@ -17,7 +17,7 @@ Tests on the fabricated water antenna involving VNA (Vector Network Analyzer), s
 showed succes in both transmission and receving signals, with multiple water antenna offering some beam-steering abilities.
 The project won the DIP competition where different groups compete within the same thematic programme (Photonics, Radar & Satellite Systems) in 2021.
 
-<img src="https://github.com/CongSheng/CongSheng.github.io/blob/master/images/DIP/DIP_team.JPG" width="800" alt="Team photo">
+<img src="https://raw.githubusercontent.com/CongSheng/CongSheng.github.io/master/images/DIP/DIP_team.JPG" width="800" alt="Team photo">
 <center>Image above: Team photo with some of us holding on to the water antenna housing. Left to right: Ryan, Yusuf, Qi Feng, Jian Xian, me, and Hareharan.</center>
 
 <img src="https://raw.githubusercontent.com/CongSheng/CongSheng.github.io/master/images/DIP/waterAntenna.JPG" width="800" alt="Testing water antenna">
