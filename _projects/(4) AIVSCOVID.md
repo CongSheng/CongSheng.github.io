@@ -2,7 +2,7 @@
 name: COVID-19 Data-driven Readiness and Risk Evaluator
 tools: [Python, Web-scraping, Artificial Intelligence, Hackathon]
 image: https://raw.githubusercontent.com/CongSheng/CongSheng.github.io/master/images/Hackathons/Covid_Idea.jpg
-description: Proposed a cloud-based solution to automate fault detection process for track inspection using AWS.
+description: Proposed the use of natural language processing to better understand pandemic situation.
 ---
 Using web-scraping, I proposed the use of artificial intelligence (AI) and data to better evaluate the readiness
 and risk of both Singapore and beyond. A better evaluation would enhance policy-making, decision-making, and 
