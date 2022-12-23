@@ -1,5 +1,5 @@
 ### Site Settings ###
-title               : Cong Sheng
+title               : Leow Cong Sheng
 description         : >-
                       I enjoy learning more about :computer:, neuroscience, and science in general. Likes :coffee:, :running:, and :dog2:.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
@@ -21,7 +21,7 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : Leow Cong Sheng
+  name              : Cong Sheng
   image             : https://github.com/CongSheng/CongSheng.github.io/images/Intro_Pic.jpg
 #  behance           : your_username
 # dribbble          : your_username
