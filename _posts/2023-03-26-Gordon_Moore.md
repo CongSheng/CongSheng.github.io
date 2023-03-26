@@ -6,7 +6,7 @@ color:
 description: A write-up on Gordon Moore.
 ---
 <img src="https://raw.githubusercontent.com/CongSheng/CongSheng.github.io/master/images/young_gordon_Moore_Mooreorg.jpg" width="1000" alt="Gordon Moore">
-<center>Image of Gordon Moore obtained from the Gordon and Betty Moore Foundation (moore.org).</center>
+<center>Image of Gordon Moore obtained from the Gordon and Betty Moore Foundation (moore.org).</center><br>
 
 
 For more than 50 years, Moore’s law has held up strong, even with debates on 
