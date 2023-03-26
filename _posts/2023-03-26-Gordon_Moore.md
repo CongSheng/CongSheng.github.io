@@ -1,12 +1,13 @@
 ---
 title: Gordon Moore - The Passing of a Visonary
-tags: [IC Design]
+tags: [Electronics, People]
 style: 
 color: 
 description: A write-up on Gordon Moore.
 ---
-<img src="https://raw.githubusercontent.com/CongSheng/CongSheng.github.io/master/images/young_gordon_Moore_Mooreorg.jpg" width="800" alt="Gordon Moore">
+<img src="https://raw.githubusercontent.com/CongSheng/CongSheng.github.io/master/images/young_gordon_Moore_Mooreorg.jpg" width="1000" alt="Gordon Moore">
 <center>Image of Gordon Moore obtained from the Gordon and Betty Moore Foundation (moore.org).</center>
+
 
 For more than 50 years, Moore’s law has held up strong, even with debates on 
 whether it is slowing down. Nonetheless, Gordon Moore’s, the co-founder of Intel 
